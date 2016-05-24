@@ -1,0 +1,3 @@
+This part is the beginning. {This part is the footnote.} This part is the end.
+There are two footnotes in the passage. {This is footnote 1.} {This is footnote 2.}
+There are three footnotes in the passage. {This is footnote 1.} {This is footnote 2.} This is the middle. {This is footnote 3.} This is the end.

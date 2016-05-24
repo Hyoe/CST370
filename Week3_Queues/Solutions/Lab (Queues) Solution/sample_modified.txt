@@ -1,0 +1,2 @@
+This is the beginning. {This part is a footnote.} This is the middle. {Here is another footnotes.} This is the end of line 1.
+This is the second line. {This is a footnote on the second line.} This is the end of the second line.
