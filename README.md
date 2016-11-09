@@ -1,1 +1,1 @@
-# CST370
+# Data Structures and Algorithms for CST370
